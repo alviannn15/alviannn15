@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alviannn15
 - 👀 I’m interested in Website Development and Mobile Programming
 - 🌱 I’m currently learning Laravel, Java, and Flutter
-- 💞️ I’m freelance from bikintech.com
 - 📫 How to reach me alfianrenaldi333@gmail.com
 
 <!---
