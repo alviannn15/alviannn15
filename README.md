@@ -1,14 +1,10 @@
-# 👋 Hello, World! I'm Alvian
-
-[![GitHub followers](https://img.shields.io/github/followers/alviannn15?label=Follow&style=social)](https://github.com/alviannn15)
-[![Email](https://img.shields.io/badge/Email-alfianrenaldi333%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:alfianrenaldi333@gmail.com)
+# 👋 Hello, World! I'm Alfian
 
 ## 👨‍💻 About Me
 
 I'm a passionate developer with a keen interest in:
 - 🌐 Website Development
 - 🎨 UI/UX Engineering
-- 📱 Mobile Programming
 - 💻 Front-end Development
 
 Currently on a journey to master NextJS and Flutter, I'm always excited to learn and grow in the ever-evolving world of technology!
@@ -30,21 +26,12 @@ Here are some technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-## 🌱 Currently Learning
-
-I'm focusing on expanding my skillset with:
-
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfian-renaldi)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alviannn15)
-
+[![GitHub followers](https://img.shields.io/github/followers/alviannn15?label=Follow&style=social)](https://github.com/alviannn15)
+[![Email](https://img.shields.io/badge/Email-alfianrenaldi333%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:alfianrenaldi333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alfian-renaldi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alviannn15)
 ---
-
-⭐️ From [alviannn15](https://github.com/alviannn15) with ❤️
